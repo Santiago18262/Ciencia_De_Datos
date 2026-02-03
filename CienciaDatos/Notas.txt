@@ -1,0 +1,7 @@
+python -m venv CienciaDatos
+
+CienciaDatos\Scripts\activate 
+
+deactivate
+
+python -m php 
