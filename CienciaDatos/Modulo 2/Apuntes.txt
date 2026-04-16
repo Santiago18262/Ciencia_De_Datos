@@ -1,0 +1,22 @@
+Diabetes de Pima Indians
+Descripcion: Predecir el inicio de la Diabetes
+
+Sonar, Mines vs Rocks
+Descripcion: Produce ondas de sonido en el agua en el cual al llegar al fondo del oceano rebotan,
+             asi mandandando de retorno las señales que se encontraron para determinar la distancia, 
+             direccion y composición de estos objetos.
+
+Base de datos Soya
+Descripcion: Predecir problemas con cultivos de soja a partir de datos de cultivos.
+Tipo: Clasificación Multicase
+
+Tareas a realizar en un dataset:
+
+Limpieza de datos: Descubrimos datos missing o corruptos y/o marcados
+Entender nuestros datos: Conocer muchos detalles del conjunto de datos.
+
+¿Qué es el problema de la dimensionalidad?
+
+Data.describe = Sirve para saber por columna el número minimo que hay en la columnas
+
+Codigo de EDA para el proyecto, que es identificar minimos, maximos, media, mediana y funcion describe().
