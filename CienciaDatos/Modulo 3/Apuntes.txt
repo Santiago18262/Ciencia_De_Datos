@@ -1,0 +1,7 @@
+Por cada una de las dimensiones se tienen que realizar un gráfico.
+
+Los outliers: Son valores que se encuentran muy alejados de la mayoría de los datos. Pueden ser causados por errores
+de medición, errores de entrada de datos o pueden ser valores legítimos pero raros. Es importante identificar y 
+manejar los outliers adecuadamente, ya que pueden afectar significativamente el análisis y los resultados de los 
+modelos estadísticos.
+
